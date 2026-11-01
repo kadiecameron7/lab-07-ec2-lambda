@@ -1,0 +1,67 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "169.254.88.47",
+      "books": 1
+    },
+    {
+      "host": "Kadies-MacBook-Pro.local",
+      "books": 3
+    },
+    {
+      "host": "ip-172-31-16-181",
+      "books": 100
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg74.txt",
+      "author": "Mark Twain",
+      "bucket": "public-scn7fw",
+      "language": "English",
+      "runs": [
+        {
+          "host": "169.254.88.47",
+          "at": "2026-10-31 19:16:29.706000"
+        }
+      ],
+      "title": "The Adventures of Tom Sawyer, Complete",
+      "unique_words": 7295,
+      "vocabulary_ratio": 0.0981,
+      "word_count": 74383
+    },
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-scn7fw",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-16-181",
+          "at": "2026-10-31 18:42:39.789000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-scn7fw",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-16-181",
+          "at": "2026-10-31 18:42:39.482000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490
+    }
+  ]
+}
